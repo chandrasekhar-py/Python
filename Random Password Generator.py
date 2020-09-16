@@ -21,7 +21,7 @@ while i == False:
         w = letters[randint(0,23)]
         e = numbers[randint(0,8)]
 
-        f = (x,y,z,q,w,e)
-        print(f[0], f[1], f[2], f[3], f[4], f[5])
+        
+        print(x,y,z,q,w,e)
     
     i = False
